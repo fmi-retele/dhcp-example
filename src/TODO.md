@@ -5,7 +5,7 @@
 
 #### TODO 2: 
 -	use scapy.sendrecv.sniff() to capture the Discover and Offer packages
--	hint: see count and filter parameters to the sniff() function
+-	hint: see count and filter parameters for the sniff() function
 
 #### TODO 3:
 -	try to send the (message-type, accept)

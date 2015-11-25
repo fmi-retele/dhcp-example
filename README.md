@@ -1,9 +1,11 @@
 # dhcp-example
-Crafting a DHCP discover packet. 
-Requirements:
+##### Crafting a DHCP discover packet. 
+
+##### Requirements:
 - use the [vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
-- [scapy](http://www.secdev.org/projects/scapy/)
-- [dhcp tutorial](www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html)
+- check to have [scapy](http://www.secdev.org/projects/scapy/) installed
+- see the different [headers](https://github.com/fmi-retele/dhcp-example/blob/master/scapy-protocols.md)
+- follow [dhcp tutorial](www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html)
 - dhcp uses the [bootp header](http://www.networksorcery.com/enp/protocol/bootp.htm) + options 
 
 

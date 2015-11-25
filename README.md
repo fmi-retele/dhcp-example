@@ -2,6 +2,7 @@
 A dhcp scapy example of discover message.
 - [scapy](http://www.secdev.org/projects/scapy/)
 - [dhcp tutorial](www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html)
+- dhcp uses the old [bootp header](http://www.networksorcery.com/enp/protocol/bootp.htm) + options 
 - [vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
 
 ### [RFC 2131](http://www.ietf.org/rfc/rfc2131.txt)     

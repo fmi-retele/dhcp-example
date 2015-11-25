@@ -40,7 +40,9 @@ tcp.show()
 
 #### Application layer
 - [BOOTP + DHCP headers] (www.networksorcery.com/enp/protocol/DHCP.htm)
+```
 bootp = BOOTP()
 bootp.show()
 dhcp = DHCP()
 dhcp.show()
+```

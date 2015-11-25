@@ -6,6 +6,7 @@
 
 #### TODO 2: 
 -	use scapy.sendrecv.sniff() to capture the Discover and Offer packages
+-	finalize capture_dhcp.py
 -	hint: see count and filter parameters for the sniff() function
 
 #### TODO 3:

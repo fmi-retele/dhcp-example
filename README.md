@@ -3,10 +3,11 @@
 
 ##### Requirements:
 - use any linux or use the [vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
-- check to have [scapy](http://www.secdev.org/projects/scapy/) installed
+- check that you have [scapy](http://www.secdev.org/projects/scapy/) installed
 - see the different protocol [headers](https://github.com/fmi-retele/dhcp-example/blob/master/scapy-protocols.md)
 - follow the [dhcp tutorial](www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html)
 - dhcp uses the [bootp header](http://www.networksorcery.com/enp/protocol/bootp.htm) + options 
+- [homework assignment](https://github.com/fmi-retele/dhcp-example/blob/master/src/TODO.md)
 
 
 ### [RFC 2131](http://www.ietf.org/rfc/rfc2131.txt)     

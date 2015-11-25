@@ -1,5 +1,6 @@
 '''
-Sample script to send a DHCP discover
+A very basic script to send a DHCP Discover message. 
+Capture the packages to see what's wrong.
 '''
 import scapy
 from scapy.sendrecv import sendp, sniff

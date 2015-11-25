@@ -6,14 +6,14 @@ import scapy
 from scapy.all import DHCP, ARP, BOOTP, Ether, UDP, TCP, IP
 ```
 
-- data link layer
+#### Data link layer
 - [ethernet] (http://www.networksorcery.com/enp/protocol/ethernet.htm)
 ```
 ethernet = Ether()
 ethernet.show()
 ```
 
-- network layer
+#### Network layer
 - [ARP] (http://www.networksorcery.com/enp/protocol/ARP.htm)
 ```
 arp = ARP()
@@ -26,7 +26,7 @@ ip = IP()
 ip.show()
 ```
 
-- transport layer
+#### Transport layer
 - [UDP](http://www.networksorcery.com/enp/protocol/UDP.htm)
 ```
 udp = UDP()
@@ -38,6 +38,7 @@ tcp = TCP()
 tcp.show()
 ```
 
+#### Application layer
 - [BOOTP + DHCP headers] (www.networksorcery.com/enp/protocol/DHCP.htm)
 bootp = BOOTP()
 bootp.show()

@@ -1,10 +1,10 @@
 # dhcp-example
 A dhcp scapy example of discover message.
 - [scapy](http://www.secdev.org/projects/scapy/)
-- [dhcp](http://www.ietf.org/rfc/rfc2131.txt)
+- [dhcp tutorial](www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html)
 - [vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
 
-### RFC 2131     
+### [RFC 2131](http://www.ietf.org/rfc/rfc2131.txt)     
                 Server          Client          Server
             (not selected)                    (selected)
 

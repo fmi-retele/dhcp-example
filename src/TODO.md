@@ -1,6 +1,7 @@
 #### TODO 1: 
 - start [wireshark](https://www.wireshark.org/)
 - capture the correct interface and filter by "udp and (port 68 or port 67)"
+- run dhcp.py
 - look at the structure of Discover and Offer packages
 
 #### TODO 2: 

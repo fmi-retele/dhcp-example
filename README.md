@@ -2,9 +2,9 @@
 ##### Crafting a DHCP discover packet. 
 
 ##### Requirements:
-- use any linux or use the [vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
+- use any linux or use the [Ubuntu x64 vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
 - check that you have [scapy](http://www.secdev.org/projects/scapy/) installed
-- see the different protocol [headers](https://github.com/fmi-retele/dhcp-example/blob/master/scapy-protocols.md)
+- see the different protocol [headers](https://github.com/fmi-retele/scapy-tutorial)
 - follow any dhcp tutorial (e.g. [this one](http:www.atoz-networking.blogspot.in/2009/09/how-dhcp-works.html))
 - dhcp uses the [bootp header](http://www.networksorcery.com/enp/protocol/bootp.htm) + options 
 - [homework assignment](https://github.com/fmi-retele/dhcp-example/blob/master/src/TODO.md)
